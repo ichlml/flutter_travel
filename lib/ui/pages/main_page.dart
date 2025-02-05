@@ -41,5 +41,3 @@ class MainPage extends StatelessWidget {
     );
   }
 }
-// 0200001308
-// 50203668949
